@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">📄 Data Analytics Job Simulation– Deloitte (Forage)<br>📄 Microsoft Data Analytics Certification <br>📄 Data Analytics Intern In UptoSkill</p>
+<p align="left">📄 Data Analytics Job Simulation– Deloitte (Forage)<br> 📄 Data Visualization: Empowering Business with Effective Insights - TATA (Forage)<br>📄 Microsoft Data Analytics Certification <br>📄 Data Analytics Intern In UptoSkill</p>
 
 ###
 
